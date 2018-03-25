@@ -1,0 +1,6 @@
+@mixin border($solid){
+    -webkit-border: $solid;            
+    -moz-border: $solid;            
+    -o-border: $solid;            
+    border: $solid;            
+}
